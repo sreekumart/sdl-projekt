@@ -9,17 +9,17 @@ python based soundcloud music file downloader
   5.enter the client id (if the included one is expired,check the clientid file in the sdl module)(optional)
   
  # Output
-  Enter the URL : https://soundcloud.com/robin-schulz/robin-schulz-waves-bootleg-1
-  enter the download path (optional) : C:/music/
-  enter the client id (optional) : 
-  INFO:root:Fetching PlayList Source URL
-  INFO:root:Fetched PlayList Source URL Successfully
-  INFO:root:Fetching PlayList URL 
-  INFO:root:Fetched PlayList URL Successfully
-  INFO:root:Fetching Playlist Tracks URL
-  INFO:root:Fetched Playlist Tracks URL Successfully
-  INFO:root:Downloading Playlist Tracks
-  INFO:root:Download Completed : C:\music\robin-schulz-waves-bootleg-1.mp3
+  Enter the URL : https://soundcloud.com/robin-schulz/robin-schulz-waves-bootleg-1<br>
+  enter the download path (optional) : C:/music/<br>
+  enter the client id (optional) : <br>
+  INFO:root:Fetching PlayList Source URL<br>
+  INFO:root:Fetched PlayList Source URL Successfully<br>
+  INFO:root:Fetching PlayList URL <br>
+  INFO:root:Fetched PlayList URL Successfully<br>
+  INFO:root:Fetching Playlist Tracks URL<br>
+  INFO:root:Fetched Playlist Tracks URL Successfully<br>
+  INFO:root:Downloading Playlist Tracks<br>
+  INFO:root:Download Completed : C:\music\robin-schulz-waves-bootleg-1.mp3<br>
 
  
 # Requirement
