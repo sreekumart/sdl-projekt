@@ -14,7 +14,9 @@ python based soundcloud music file downloader
   
 # Improvements
   1.Progress bar during download<br>
-  2.Multi threaded download using future
+  2.Multi threaded download using future<br>
+  3.extract artist name<br>
+  4.extract cover art<br>
   
 # Known Issue
   1.If the clientids in the clientid file is expired then the user will have to get one and provide to the script.
