@@ -13,7 +13,7 @@ python based soundcloud music file downloader
   2.requests module
   
 # Improvements
-  1.Progress bar during download
+  1.Progress bar during download<br>
   2.Multi threaded download using future
   
 # Known Issue
