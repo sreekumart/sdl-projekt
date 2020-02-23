@@ -2,10 +2,10 @@
 python based soundcloud music file downloader
 
 # Usage
-  1.Copy the SoundCloud URL for a particular music file 
-  2.Execute the sdl.py
-  3.enter the URL as input upon prompt
-  4.enter the path to be downloaded to upon prompt(optional)
+  1.Copy the SoundCloud URL for a particular music file<br>
+  2.Execute the sdl.py<br>
+  3.enter the URL as input upon prompt<br>
+  4.enter the path to be downloaded to upon prompt(optional)<br>
   5.enter the client id (if the included one is expired,check the clientid file in the sdl module)(optional)
  
 # Requirement
